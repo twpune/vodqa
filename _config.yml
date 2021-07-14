@@ -14,7 +14,7 @@ title: "VodQA"
 email: "vodqa-pune@thoughtworks.com"
 description: "VodQA - Value Oriented Discussions for Quality Analysts, is a forum that sports the motto - 'come learn something new'. The forum offers a unique platform for the software testing industry to strengthen the QA community through knowledge sharing."
 baseurl: "/vodqa"
-url: "https://twpune.github.io"
+url: "http://twpune.github.io"
 permalink: "/blog/:title"
 
 # Head
