@@ -24,9 +24,9 @@ metaKeywords: "event, vodqa, thoughtworks"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/#schedule", text: "Schedule"}
- - {link: "https://bit.ly/dfua-c4p", text: "Register to Attend"}
+ - {link: "/", text: "Register to Attend"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Register to Attend"}
+ - {link: "/", text: "Register to Attend"}
 
 # Hero Block
 heroImage: "tw-bg.jpg"
@@ -35,7 +35,7 @@ typeoutTextValues: '"Pune"'
 typeoutFallback: ""
 eventDate: "Coming Soon"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Register to Attend"}
+ - {link: "/", text: "Register to Attend"}
 
 # About Block
 aboutTitle: "About VodQA"
