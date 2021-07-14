@@ -1,0 +1,77 @@
+# Plugins
+gems:
+- jekyll-sitemap
+safe: false
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+
+
+# Site Settings
+title: "VodQA"
+email: "vodqa-pune@thoughtworks.com"
+description: "VodQA - Value Oriented Discussions for Quality Analysts, is a forum that sports the motto - 'come learn something new'. The forum offers a unique platform for the software testing industry to strengthen the QA community through knowledge sharing."
+baseurl: "/vodqa"
+url: "https://twpune.github.io"
+permalink: "/blog/:title"
+
+# Head
+metaKeywords: "event, vodqa, thoughtworks"
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/#schedule", text: "Schedule"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Register to Attend"}
+rightNavigationButtons:
+ - {link: "https://bit.ly/dfua-c4p", text: "Register to Attend"}
+
+# Hero Block
+heroImage: "tw-bg.jpg"
+heroTitle: "VodQA 2021"
+typeoutTextValues: '"Pune"'
+typeoutFallback: ""
+eventDate: "Coming Soon"
+heroButtons:
+ - {link: "https://bit.ly/dfua-c4p", text: "Register to Attend"}
+
+# About Block
+aboutTitle: "About VodQA"
+aboutBlock:
+  - {title: "", image: "workshop.jpg", text: "VodQA - Value Oriented Discussions for Quality Analysts, is a forum that sports the motto - 'come learn something new'. The forum offers a unique platform for the software testing industry to strengthen the QA community through knowledge sharing." }
+
+# Statistic Block
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+
+
+# Footer
+socialLinks:
+ - {permalink: "/", icon: "google-plus"}
+ - {permalink: "/", icon: "twitter"}
+ - {permalink: "/", icon: "facebook"}
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   - {permalink: "/", text: "VodQA"}
+   - {link: "https://thoughtworks.com", text: "ThoughtWorks"}
+ -
+  title: "Contacts"
+  links:
+   - {link: "mailto:vodqa-pune@thoughtworks.com", text: "vodqa-pune@thoughtworks.com"}
+ -
+  title: "FAQ"
+  links:
+   - {permalink: "/faq/", text: "Frequently Asked Questions"}
+
+
+# Speakers List Block
+showSessions: true
+

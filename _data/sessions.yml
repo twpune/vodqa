@@ -1,0 +1,20 @@
+-
+  id: 001
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 002
+  title: "Lunch Break"
+  place: "Dining room"
+  service: true
+-
+  id: 003
+  title: "TBD"
+  description: "TBD"
+  subtype: workshop
+  speakers: [1, 2]
+  language: en
+  complexity: "Intermediate"
+  video: ""

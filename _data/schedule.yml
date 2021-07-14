@@ -1,0 +1,27 @@
+- 
+  date: "2014-10-24"
+  dateReadable: "October 24"
+  tracks: 
+    - {title: "Talk", color: "#90be4e"}
+    - {title: "Workshop", color: "#e91e63"}
+  timeslots:
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [003, 404]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:45",
+        sessionIds: [003, 404]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "11:45",
+    	sessionIds: [001]
+    }
+    - {
+    	startTime: "02:00",
+    	endTime: "03:30",
+    	sessionIds: [404, 003]
+    }

@@ -1,0 +1,24 @@
+- 
+  id: 1
+  name: "-"
+  surname: "-"
+  company: "-"
+  title: "-"
+  bio: "-"
+  thumbnailUrl: DawidOstrowski.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+- 
+  id: 2
+  name: "-"
+  surname: "-"
+  company: "ThoughtWorks"
+  title: "Lead QA"
+  bio: ''
+  thumbnailUrl: DmytroDanylyk.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"}
