@@ -26,21 +26,20 @@ navigationLinks:
  - {permalink: "/#schedule", text: "Schedule"}
  - {link: "/", text: "Register to Attend"}
 rightNavigationButtons:
- - {link: "/", text: "Register to Attend"}
+ - {link: "/", text: "Register to attend"}
 
 # Hero Block
 heroImage: "tw-bg.jpg"
 heroTitle: "VodQA 2021"
 typeoutTextValues: '"Pune"'
 typeoutFallback: ""
-eventDate: "Coming Soon"
 heroButtons:
- - {link: "/", text: "Register to Attend"}
+ - {link: "/", text: "Register to attend"}
 
 # About Block
 aboutTitle: "About VodQA"
 aboutBlock:
-  - {title: "", image: "workshop.jpg", text: "VodQA - Value Oriented Discussions for Quality Analysts, is a forum that sports the motto - 'come learn something new'. The forum offers a unique platform for the software testing industry to strengthen the QA community through knowledge sharing." }
+  - {title: "", text: "VodQA - Value Oriented Discussions for Quality Analysts, is a forum that sports the motto - 'come learn something new'. The forum offers a unique platform for the software testing industry to strengthen the QA community through knowledge sharing." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"

@@ -1,3 +1,4 @@
+Encoding.default_external = "utf-8"
 require 'sass-media_query_combiner'
 require 'autoprefixer-rails'
 require "./remove-all-comments-monkey-patch"
