@@ -66,9 +66,9 @@ footerBlocks:
   links:
    - {link: "mailto:vodqa-pune@thoughtworks.com", text: "vodqa-pune@thoughtworks.com"}
  -
-  title: "FAQ"
+  title: "Questions"
   links:
-   - {permalink: "/faq/", text: "Frequently Asked Questions"}
+   - {permalink: "/faq/", text: "FAQs"}
 
 
 # Speakers List Block
