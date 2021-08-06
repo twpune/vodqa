@@ -24,7 +24,7 @@ metaKeywords: "event, vodqa, thoughtworks"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/#schedule", text: "Schedule"}
- - {link: "/", text: "Register to Attend"}
+ - {link: "/", text: "Register to attend"}
 rightNavigationButtons:
  - {link: "/", text: "Register to attend"}
 

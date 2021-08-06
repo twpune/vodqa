@@ -102,10 +102,9 @@ nav {
             display: block;
         }
         a {
-            font-size: $base-font-size;
-            font-weight: $regular;
+            font-size: $base-font-size + 4;
+            font-weight: $bold;
             transition: $base-transition;
-            text-transform: uppercase;
             color: $nav-color;
             @media (max-width: 767px) {
                 font-size: 16px;

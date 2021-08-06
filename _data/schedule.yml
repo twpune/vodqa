@@ -1,8 +1,8 @@
 - 
-  date: "2014-10-24"
-  dateReadable: "October 24"
+  date: "2021-08-28"
+  dateReadable: "August 28"
   tracks: 
-    - {title: "Talk", color: "#90be4e"}
+    - {title: "Talk", color: $talk-color}
     - {title: "Workshop", color: "#e91e63"}
   timeslots:
     - {
