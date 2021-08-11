@@ -1,14 +1,9 @@
 -
   id: 001
-  title: "Coffee Break"
+  title: "Lunch Break"
   place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
--
-  id: 002
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
 -
   id: 003
   title: "GraphQL"
