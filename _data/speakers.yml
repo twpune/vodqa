@@ -1,24 +1,115 @@
 - 
   id: 1
-  name: "-"
-  surname: "-"
-  company: "-"
-  title: "-"
-  bio: "-"
+  name: "Pranesh"
+  surname: "Gaikwad"
+  company: "Thoughtworks"
+  title: "Senior Consultant"
+  bio: "Having total 9 years of experience as a QA. Testing enthusiastic Thoughtworker."
   thumbnailUrl: DawidOstrowski.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
   id: 2
-  name: "-"
-  surname: "-"
+  name: "Samrat"
+  surname: "Banerjee"
   company: "ThoughtWorks"
-  title: "Lead QA"
-  bio: ''
+  title: "Senior Consultant"
+  bio: 'Have interest in opensource testing projects.'
   thumbnailUrl: DmytroDanylyk.jpg
   rockstar: true
   social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+
+-
+  id: 3
+  name: "Aliasgar"
+  surname: "Chaiwala"
+  company: "Thoughtworks"
+  title: "Senior Consultant"
+  bio: "Having total 9 years of experience as a QA. Testing enthusiastic Thoughtworker."
+  thumbnailUrl: DawidOstrowski.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+-
+  id: 4
+  name: "Vinay"
+  surname: "Supekar"
+  company: "ThoughtWorks"
+  title: "Senior Consultant"
+  bio: 'Have interest in opensource testing projects.'
+  thumbnailUrl: DmytroDanylyk.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 5
+  name: "Vikrant"
+  surname: "Chauhan"
+  company: "ThoughtWorks"
+  title: "Senior Consultant"
+  bio: 'Have interest in opensource testing projects.'
+  thumbnailUrl: DmytroDanylyk.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 6
+  name: "Himanshu"
+  surname: "Sharma"
+  company: "ThoughtWorks"
+  title: "Senior Consultant"
+  bio: 'Have interest in opensource testing projects.'
+  thumbnailUrl: DmytroDanylyk.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+
+-
+  id: 7
+  name: "Hemant"
+  surname: "Badaya"
+  company: "ThoughtWorks"
+  title: "Senior Consultant"
+  bio: 'Have interest in opensource testing projects.'
+  thumbnailUrl: DmytroDanylyk.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 8
+  name: "Tejas"
+  surname: "Chitale"
+  company: "ThoughtWorks"
+  title: "Senior Consultant"
+  bio: 'Have interest in opensource testing projects.'
+  thumbnailUrl: DmytroDanylyk.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 9
+  name: "Yash"
+  surname: "Varshney"
+  company: "ThoughtWorks"
+  title: "Senior Consultant"
+  bio: 'Have interest in opensource testing projects.'
+  thumbnailUrl: DmytroDanylyk.jpg
+  rockstar: true
+  social:
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     - {name: "github", link: "https://github.com/dmytrodanylyk"}

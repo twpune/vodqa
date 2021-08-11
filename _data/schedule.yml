@@ -3,17 +3,17 @@
   dateReadable: "August 28"
   tracks: 
     - {title: "Talk", color: $talk-color}
-    - {title: "Workshop", color: "#e91e63"}
+    - {title: "Description", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "10:00",
     	endTime: "10:45",
-    	sessionIds: [003, 404]
+    	sessionIds: [003, 004]
     }
     - {
         startTime: "11:00",
         endTime: "11:45",
-        sessionIds: [003, 404]
+        sessionIds: [005, 006]
     }
     - {
     	startTime: "12:00",
@@ -22,6 +22,21 @@
     }
     - {
     	startTime: "02:00",
-    	endTime: "03:30",
-    	sessionIds: [404, 003]
+    	endTime: "02:45",
+    	sessionIds: [007, 008]
+    }
+    - {
+      startTime: "03:00",
+      endTime: "03:45",
+      sessionIds: [ 009, 0010 ]
+    }
+    - {
+      startTime: "04:00",
+      endTime: "04:45",
+      sessionIds: [ 0011, 0012 ]
+    }
+    - {
+      startTime: "05:00",
+      endTime: "05:45",
+      sessionIds: [ 0013, 0014 ]
     }

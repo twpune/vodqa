@@ -24,9 +24,10 @@ metaKeywords: "event, vodqa, thoughtworks"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/#schedule", text: "Schedule"}
- - {link: "https://forms.gle/ZKjekGBjPayN3yqG6", text: "Register to attend"}
+ - {link: "https://forms.gle/ZKjekGBjPayN3yqG6", text: "Participate"}
+ - {link: "https://www.meetup.com/ThoughtWorks-GeekNight-Pune/", text: "Join Us"}
 rightNavigationButtons:
- - {link: "https://forms.gle/ZKjekGBjPayN3yqG6", text: "Register to attend"}
+ - {link: "https://forms.gle/ZKjekGBjPayN3yqG6", text: "Participate"}
 
 # Hero Block
 heroImage: "tw-bg.jpg"
@@ -34,7 +35,7 @@ heroTitle: "VodQA 2021"
 typeoutTextValues: '"Pune"'
 typeoutFallback: ""
 heroButtons:
- - {link: "https://forms.gle/ZKjekGBjPayN3yqG6", text: "Register to attend"}
+ - {link: "https://forms.gle/ZKjekGBjPayN3yqG6", text: "Participate"}
 
 # About Block
 aboutTitle: "About VodQA"

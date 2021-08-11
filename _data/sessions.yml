@@ -11,10 +11,94 @@
   service: true
 -
   id: 003
-  title: "TBD"
+  title: "GraphQL"
   description: "TBD"
   subtype: workshop
   speakers: [1, 2]
   language: en
   complexity: "Intermediate"
   video: ""
+-
+  id: 004
+  title: ""
+  place: ""
+  service: true
+  description: "GraphQL is API specification standard just like REST and SOAP, designed by Facebook for faster response and good user experience.
+                In this talk we will concentrate on what is GraphQL and how we can test different aspects of GraphQL. We will also cover sample frameworks available to test GraphQL aspects and live demo using Postman."
+-
+  id: 005
+  title: "Using ELK  for Test Automation Reporting"
+  description: "TBD"
+  subtype: workshop
+  speakers: [3]
+  language: en
+  complexity: "Intermediate"
+  video: ""
+-
+  id: 006
+  title: ""
+  place: ""
+  service: true
+  description: "Using ELK for the Test Automation Reporting and dashboard.ELK stack give you the ability to aggregate logs from all your systems. Not only analyze them for problems but also monitor system use and find opportunities for improvement. The data analysis and visualization ELK provides can’t be beat."
+-
+  id: 007
+  title: "Acceptance Test Driven Development"
+  description: "TBD"
+  subtype: workshop
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+  video: ""
+-
+  id: 008
+  title: ""
+  place: ""
+  service: true
+  description: "Talk is around how can one use Acceptance Test Driven Development (ATDD) for effective & quality delivery. It is a way of working where one can use BDD framework to develop the functional (aka Acceptance) tests before we actually develop the functionality. It is taking TDD to its next level to cover few limitations of typical TDD. This talk will also cover how to maintain story's acceptance criteria in GWT (Given - When - Then) format to ease ATDD."
+-
+  id: 009
+  title: "Deconstructing Test Strategy"
+  description: "TBD"
+  subtype: workshop
+  speakers: [5, 6]
+  language: en
+  complexity: "Intermediate"
+  video: ""
+-
+  id: 0010
+  title: ""
+  place: ""
+  service: true
+  description: "Most of us would have heard of or even created a “Test Strategy”. We would like to deconstruct it to understand it better. Understanding various components involved in a test strategy and how they have an impact on it."
+-
+  id: 0011
+  title: "Introduction to Kafka Testing"
+  description: "TBD"
+  subtype: workshop
+  speakers: [7, 8]
+  language: en
+  complexity: "Intermediate"
+  video: ""
+-
+  id: 0012
+  title: ""
+  place: ""
+  service: true
+  description: "Kafka is distributed streaming platform that is used to publish and subscribe to stream of records. It can handle high volume of data with low latency and provides reliability, scalability, Durability and performance.
+                In this talk we are going to talk about different modules in Kafka and Producer, Consumer APIs. And how do we test them in Manual and Automation testing."
+-
+  id: 0013
+  title: "Infrastructure Automation Using Terraform"
+  description: "TBD"
+  subtype: workshop
+  speakers: [9]
+  language: en
+  complexity: "Intermediate"
+  video: ""
+-
+  id: 0014
+  title: ""
+  place: ""
+  service: true
+  description: "We will talk about Terraform , a powerful tool in Infrastructure. How wonderful it is to know only about Terraform and play with AWS , Azure , GCP or any cloud provider supported by Terraform."
+
