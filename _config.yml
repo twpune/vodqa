@@ -25,22 +25,22 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/#schedule", text: "Schedule"}
  - {link: "https://forms.gle/ZKjekGBjPayN3yqG6", text: "Participate"}
- - {link: "https://www.meetup.com/ThoughtWorks-GeekNight-Pune/", text: "Join Us"}
+ - {link: "https://www.meetup.com/VodQA-Pune/events/280090486/", text: "Join Us"}
 rightNavigationButtons:
  - {link: "https://forms.gle/ZKjekGBjPayN3yqG6", text: "Participate"}
 
 # Hero Block
 heroImage: "tw-bg.jpg"
-heroTitle: "VodQA 2021"
+heroTitle: "vodQA - The Testing Tornado"
 typeoutTextValues: '"Pune"'
 typeoutFallback: ""
 heroButtons:
  - {link: "https://forms.gle/ZKjekGBjPayN3yqG6", text: "Participate"}
 
 # About Block
-aboutTitle: "About VodQA"
+aboutTitle: "About vodQA"
 aboutBlock:
-  - {title: "", text: "VodQA - Value Oriented Discussions for Quality Analysts, is a forum that sports the motto - 'come learn something new'. The forum offers a unique platform for the software testing industry to strengthen the QA community through knowledge sharing." }
+  - {title: "", text: "vodQA - Value Oriented Discussions for Quality Analysts, is a forum that sports the motto - 'come learn something new'. The forum offers a unique platform for the software testing industry to strengthen the QA community through knowledge sharing." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -60,7 +60,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {permalink: "/", text: "VodQA"}
+   - {permalink: "/", text: "vodQA"}
    - {link: "https://thoughtworks.com", text: "ThoughtWorks"}
  -
   title: "Contacts"
