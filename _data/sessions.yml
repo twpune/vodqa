@@ -21,21 +21,6 @@
   description: "GraphQL is API specification standard just like REST and SOAP, designed by Facebook for faster response and good user experience.
                 In this talk we will concentrate on what is GraphQL and how we can test different aspects of GraphQL. We will also cover sample frameworks available to test GraphQL aspects and live demo using Postman."
 -
-  id: 005
-  title: "Using ELK  for Test Automation Reporting"
-  description: "TBD"
-  subtype: workshop
-  speakers: [3]
-  language: en
-  complexity: "Intermediate"
-  video: ""
--
-  id: 006
-  title: ""
-  place: ""
-  service: true
-  description: "Using ELK for the Test Automation Reporting and dashboard.ELK stack give you the ability to aggregate logs from all your systems. Not only analyze them for problems but also monitor system use and find opportunities for improvement. The data analysis and visualization ELK provides can’t be beat."
--
   id: 007
   title: "Acceptance Test Driven Development"
   description: "TBD"
