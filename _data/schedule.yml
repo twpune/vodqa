@@ -21,17 +21,17 @@
     	sessionIds: [001]
     }
     - {
-    	startTime: "02:00",
-    	endTime: "02:45",
+    	startTime: "01:00",
+    	endTime: "01:45",
     	sessionIds: [009, 0010]
+    }
+    - {
+      startTime: "02:00",
+      endTime: "02:45",
+      sessionIds: [ 0011, 0012 ]
     }
     - {
       startTime: "03:00",
       endTime: "03:45",
-      sessionIds: [ 0011, 0012 ]
-    }
-    - {
-      startTime: "04:00",
-      endTime: "04:45",
       sessionIds: [ 0013, 0014 ]
     }
