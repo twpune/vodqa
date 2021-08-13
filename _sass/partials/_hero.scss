@@ -24,6 +24,11 @@
     }
 }
 
+#eventdiv{
+    margin: 0 400px;
+    background: rgba(157, 161, 182, 0.5);
+}
+
 .event-date{
     font-size: 30px;
     font-weight: 500;
@@ -32,8 +37,7 @@
 
 .typeout-fallback {
     display: none;
-    font-size: 20px;
-    font-weight: 700;
+    font-weight: 800;
     @media (max-width: 767px) {
         display: block;
     }
