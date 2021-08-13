@@ -35,6 +35,7 @@ heroTitle: "vodQA 2021"
 heroSubtitle: "The Testing Tornado"
 typeoutTextValues: '"Pune"'
 typeoutFallback: ""
+eventDate: "August 28, 2021"
 heroButtons:
  - {link: "https://forms.gle/ZKjekGBjPayN3yqG6", text: "Participate"}
 

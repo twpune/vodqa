@@ -23,10 +23,17 @@
         }
     }
 }
+
+.event-date{
+    font-size: 30px;
+    font-weight: 500;
+    color: #EDF1F3
+}
+
 .typeout-fallback {
     display: none;
     font-size: 20px;
-    font-weight: bold;
+    font-weight: 700;
     @media (max-width: 767px) {
         display: block;
     }
