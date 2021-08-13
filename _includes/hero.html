@@ -14,9 +14,11 @@
         </div>
 
         {% assign heroText = site.heroTitle | split:"<typeout>" %}
-        <h2><strong>{{ heroText[0] }}</strong><span id="typeout-text" class="hidden-xs"></span><span
-                class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h2>
-
+        <h1><strong>{{ heroText[0] }}</strong><span id="typeout-text" class="hidden-xs"></span><span
+                class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
+        {% assign heroText = site.heroSubtitle | split:"<typeout>" %}
+        <h5><strong>{{ heroText[0] }}</strong><span id="typeout-text" class="hidden-xs"></span><span
+                class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h5>
         {% include countdown.html %}
         <a href="#about" class="explore">
             <svg class="icon icon-arrow-down" viewBox="0 0 32 32">

@@ -102,7 +102,7 @@ nav {
             display: block;
         }
         a {
-            font-size: $base-font-size + 4;
+            font-size: $base-font-size * 2;
             font-weight: $bold;
             transition: $base-transition;
             color: $nav-color;

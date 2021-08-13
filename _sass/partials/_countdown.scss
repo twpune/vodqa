@@ -1,21 +1,14 @@
 body{
   text-align: center;
-  background: rgba(43, 78, 165, 0.5);
+  background: rgba(157, 161, 182, 0.5);
   font-family: sans-serif;
   font-weight: 100;
-}
-
-h1{
-  color: rgba(43, 78, 165, 0.5);
-  font-weight: 100;
-  font-size: 40px;
-  margin: 40px 0px 20px;
 }
 
 #clockdiv{
   font-family: sans-serif;
   color: #EDF1F3;
-  font-weight: 100;
+  font-weight: $bold;
   text-align: center;
   font-size: 50px;
   @media (min-width: 768px) {
@@ -33,7 +26,7 @@ h1{
 #clockdiv > div{
   padding: 20px;
   border-radius: 3px;
-  background: rgba(43, 78, 165, 0.5);
+  background: rgba(157, 161, 182, 0.5);
   display: inline-block;
 }
 

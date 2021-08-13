@@ -31,7 +31,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "tw-bg.jpg"
-heroTitle: "vodQA - The Testing Tornado"
+heroTitle: "vodQA 2021"
+heroSubtitle: "The Testing Tornado"
 typeoutTextValues: '"Pune"'
 typeoutFallback: ""
 heroButtons:
