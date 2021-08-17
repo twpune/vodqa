@@ -54,10 +54,10 @@ aboutBlock:
 
 
 # Footer
-socialLinks:
- - {permalink: "/", icon: "google-plus"}
- - {permalink: "/", icon: "twitter"}
- - {permalink: "/", icon: "facebook"}
+#socialLinks:
+# - {permalink: "/", icon: "google-plus"}
+# - {permalink: "/", icon: "twitter"}
+# - {permalink: "/", icon: "facebook"}
 footerBlocks:
  -
   title: "Links"
