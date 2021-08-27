@@ -24,10 +24,10 @@ metaKeywords: "event, vodqa, thoughtworks"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/#schedule", text: "Schedule"}
- - {link: "https://forms.gle/ZKjekGBjPayN3yqG6", text: "Participate"}
+ - {link: "https://www.meetup.com/VodQA-Pune/events/280090486/", text: "Participate"}
  - {link: "https://www.meetup.com/VodQA-Pune/events/280090486/", text: "Join Us"}
 rightNavigationButtons:
- - {link: "https://forms.gle/ZKjekGBjPayN3yqG6", text: "Participate"}
+ - {link: "https://www.meetup.com/VodQA-Pune/events/280090486/", text: "Participate"}
 
 # Hero Block
 heroImage: "tw-bg.jpg"
