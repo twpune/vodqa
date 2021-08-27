@@ -37,7 +37,7 @@ typeoutTextValues: '"Pune"'
 typeoutFallback: ""
 eventDate: "August 28, 2021"
 heroButtons:
- - {link: "https://forms.gle/ZKjekGBjPayN3yqG6", text: "Participate"}
+ - {link: "https://www.meetup.com/VodQA-Pune/events/280090486/", text: "Participate"}
 
 # About Block
 aboutTitle: "About vodQA"
