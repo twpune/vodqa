@@ -31,11 +31,11 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "tw-bg.jpg"
-heroTitle: "vodQA 2021"
-heroSubtitle: "The Testing Tornado!"
+heroTitle: "vodQA 2022"
+heroSubtitle: "Trending in Testing (Mobile)"
 typeoutTextValues: '"Pune"'
 typeoutFallback: ""
-eventDate: "August 28, 2021"
+eventDate: "April 23, 2022"
 heroButtons:
  - {link: "https://www.meetup.com/VodQA-Pune/events/280090486/", text: "Participate"}
 
