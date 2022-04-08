@@ -1,37 +1,22 @@
 - 
-  date: "2021-08-28"
-  dateReadable: "August 28"
+  date: "2022-04-23"
+  dateReadable: "April 23"
   tracks: 
     - {title: "Talk", color: $talk-color}
     - {title: "Description", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "10:00",
-    	endTime: "10:45",
+    	endTime: "10:30",
     	sessionIds: [003, 004]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
+        startTime: "10:35",
+        endTime: "11:20",
         sessionIds: [007, 008]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "12:45",
+    	startTime: "11:25",
+    	endTime: "12:00",
     	sessionIds: [001]
-    }
-    - {
-    	startTime: "01:00",
-    	endTime: "01:45",
-    	sessionIds: [009, 0010]
-    }
-    - {
-      startTime: "02:00",
-      endTime: "02:45",
-      sessionIds: [ 0011, 0012 ]
-    }
-    - {
-      startTime: "03:00",
-      endTime: "03:45",
-      sessionIds: [ 0013, 0014 ]
     }
