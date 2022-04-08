@@ -1,5 +1,5 @@
 -
- id: 001
+  id: 001
   title: "Practical Test Strategy for Mobile Applications"
   subtype: workshop
   speakers: [1, 2]
@@ -40,3 +40,4 @@
   place: ""
   service: true
   description: "Detox is a gray box testing solution for mobile apps, it manages sync between the test code and the app so the users don’t have to do it manually. In this talk, we will walk you through setting Detox up in your project."
+  
