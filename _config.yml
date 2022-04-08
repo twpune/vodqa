@@ -24,10 +24,10 @@ metaKeywords: "event, vodqa, thoughtworks"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/#schedule", text: "Schedule"}
- - {link: "https://www.meetup.com/VodQA-Pune/events/280090486/", text: "Participate"}
- - {link: "https://www.meetup.com/VodQA-Pune/events/280090486/", text: "Join Us"}
+ - {link: "https://www.meetup.com/VodQA-Pune/events/285143246/", text: "Participate"}
+ - {link: "https://www.meetup.com/VodQA-Pune/events/285143246/", text: "Join Us"}
 rightNavigationButtons:
- - {link: "https://www.meetup.com/VodQA-Pune/events/280090486/", text: "Participate"}
+ - {link: "https://www.meetup.com/VodQA-Pune/events/285143246/", text: "Participate"}
 
 # Hero Block
 heroImage: "tw-bg.jpg"
@@ -37,7 +37,7 @@ typeoutTextValues: '"Pune"'
 typeoutFallback: ""
 eventDate: "April 23, 2022"
 heroButtons:
- - {link: "https://www.meetup.com/VodQA-Pune/events/280090486/", text: "Participate"}
+ - {link: "https://www.meetup.com/VodQA-Pune/events/285143246/", text: "Participate"}
 
 # About Block
 aboutTitle: "About vodQA"
