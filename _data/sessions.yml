@@ -25,7 +25,7 @@
   title: ""
   place: ""
   service: true
-  description: "Appium is an open-source automation mobile testing tool, which is used to test the application. It is developed and supported by Sauce Labs to automate native and hybrid mobile apps. It is a cross-platform mobile automation tool, which means that it allows the same test to be run on multiple platforms. Multiple devices can be easily tested by Appium in parallel. This talk will provide a basic and advanced concepts of the Appium Automation testing tool"
+  description: "Appium is an open-source automation mobile testing tool, which is used to test the application. It is developed and supported by Sauce Labs to automate native and hybrid mobile apps. It is a cross-platform mobile automation tool, which means that it allows the same test to be run on multiple platforms. Multiple devices can be easily tested by Appium in parallel. This talk will provide a basic and advanced concepts of the Appium Automation testing tool such as Parallel test execution across geographic regions using VPN on local setup"
 -
   id: 005
   title: "Detox: gray box end-to-end app automation"
