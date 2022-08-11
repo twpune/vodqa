@@ -6,17 +6,17 @@
     - {title: "Description", color: "#e91e63"}
   timeslots:
     - {
-    	startTime: "03:00 PM",
-    	endTime: "03:45 PM",
-    	sessionIds: [001, 002]
+    	startTime: "3:00 PM",
+    	endTime: "3:45 PM",
+    	sessionIds: [001]
     }
     - {
-        startTime: "3:50",
-        endTime: "4:35",
-        sessionIds: [003, 004]
+        startTime: "3:50 PM",
+        endTime: "4:35 PM",
+        sessionIds: [002, 003, 004]
     }
     - {
-    	startTime: "04:55",
-    	endTime: "05:40",
-    	sessionIds: [005, 006]
+    	startTime: "4:55 PM",
+    	endTime: "5:40 PM",
+    	sessionIds: [005]
     }
