@@ -33,7 +33,7 @@
   service: true
   description: "We work on different kind of applications and we write lot of automation code. The core of the automation framework is built around how do we create test data. How do we manage it how do we create a robust framework that is independent of the test data. This talk in it's entirety deals with test data strategies for automation frameworks and how to choose a specific one?"
 -
-id: 006
+  id: 006
   title: "Nalinikanth Meesala"
   place: "Thoughtworks"
   service: true
