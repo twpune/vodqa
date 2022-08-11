@@ -7,17 +7,37 @@
     - {title: "Speakers Details", color: "#e91e63"}
   timeslots:
     - {
-    	startTime: "3:00 PM",
-    	endTime: "3:45 PM",
+    	startTime: "3:00",
+    	endTime: "3:15",
+    	sessionIds: [101]
+    }
+    - {
+    	startTime: "3:15",
+    	endTime: "4:00",
     	sessionIds: [001,002,003]
     }
     - {
-        startTime: "3:50 PM",
-        endTime: "4:35 PM",
+    	startTime: "4:00",
+    	endTime: "4:05",
+    	sessionIds: [102]
+    }
+    - {
+        startTime: "4:05",
+        endTime: "4:50",
         sessionIds: [004, 005,006]
     }
     - {
-    	startTime: "4:55 PM",
-    	endTime: "5:40 PM",
-    	sessionIds: [007,008,009]
+    	startTime: "4:50",
+    	endTime: "5:00",
+    	sessionIds: [103]
+    }    
+    - {
+        startTime: "5:00",
+        endTime: "5:45",
+        sessionIds: [007, 008,009]
+    }
+    - {
+    	startTime: "5:45",
+    	endTime: "5:55",
+    	sessionIds: [104]
     }
