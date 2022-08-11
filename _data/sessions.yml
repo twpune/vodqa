@@ -1,6 +1,7 @@
 -
   id: 001
   title: "Patterns and Anti-Patterns of test automation framework"
+  description: "At TW we are generally quite proficient at picking up tools and implementing it on a project.However, across projects there are many issues seen due to: a lack of knowledge on how to implement a framework optimally,, a lack of boilerplate code or rush jobs just to get automation in place. This talk will walk through some patterns and anti-patterns of test automation - right from understanding how to automate, how to choose the best tool for automation to creating a complete framework that is maintainable and extensible"
   subtype: presentation
   speakers: [1]
   language: en
@@ -13,14 +14,15 @@
   service: true
   description: "At TW we are generally quite proficient at picking up tools and implementing it on a project.However, across projects there are many issues seen due to: a lack of knowledge on how to implement a framework optimally,, a lack of boilerplate code or rush jobs just to get automation in place. This talk will walk through some patterns and anti-patterns of test automation - right from understanding how to automate, how to choose the best tool for automation to creating a complete framework that is maintainable and extensible"
 -
-  id: 003
-  title: "Bharath Hemachandran"
-  place: "Thoughtworks"
-  service: true
-  description: "Bharath has been working for over 16 yrs in the software industry in various roles from that of a developer to IT head of a real-estate company. He loves to look at technology with a business mindset and solve real world problems using tech. Currently the Ops lead for the Data & AI Service Line in India."
--
+#   id: 003
+#   title: "Bharath Hemachandran"
+#   place: "Thoughtworks"
+#   service: true
+#   description: "Bharath has been working for over 16 yrs in the software industry in various roles from that of a developer to IT head of a real-estate company. He loves to look at technology with a business mindset and solve real world problems using tech. Currently the Ops lead for the Data & AI Service Line in India."
+# -
   id: 004
   title: "The Big Elephant in the room - Managing test data"
+  description: "We work on different kind of applications and we write lot of automation code. The core of the automation framework is built around how do we create test data. How do we manage it how do we create a robust framework that is independent of the test data. This talk in it's entirety deals with test data strategies for automation frameworks and how to choose a specific one?"
   subtype: presentation
   speakers: [2, 3]
   language: en
@@ -33,14 +35,15 @@
   service: true
   description: "We work on different kind of applications and we write lot of automation code. The core of the automation framework is built around how do we create test data. How do we manage it how do we create a robust framework that is independent of the test data. This talk in it's entirety deals with test data strategies for automation frameworks and how to choose a specific one?"
 -
-  id: 006
-  title: "Nalinikanth Meesala"
-  place: "Thoughtworks"
-  service: true
-  description: "I am having 10 years of experience in Quality and Security areas. I help teams build quality and secure applications. Over time I have been setting up enterprise level security and quality practices for teams over past two years. I like to learn, guide and explore different tools and libraries in wide range. Strategy, Devsecops and Threat modelling are my favourite areas and currently my quest is to dig deep in to cloud security. I am working as a technical product owner and also is a security community lead for Thoughtworks India"
--
+#   id: 006
+#   title: "Nalinikanth Meesala"
+#   place: "Thoughtworks"
+#   service: true
+#   description: "I am having 10 years of experience in Quality and Security areas. I help teams build quality and secure applications. Over time I have been setting up enterprise level security and quality practices for teams over past two years. I like to learn, guide and explore different tools and libraries in wide range. Strategy, Devsecops and Threat modelling are my favourite areas and currently my quest is to dig deep in to cloud security. I am working as a technical product owner and also is a security community lead for Thoughtworks India"
+# -
   id: 007
   title: "Robust UI Automation Framework with Playwright"
+  description: "Robust automation framework has certain archetypes to be considered, we are going to look into those archetypes with a sample UI automation framework created in Playwright Tool"
   subtype: workshop
   speakers: [4]
   language: en
@@ -53,12 +56,12 @@
   service: true
   description: "Robust automation framework has certain archetypes to be considered, we are going to look into those archetypes with a sample UI automation framework created in Playwright Tool"
 -
-  id: 009
-  title: "Arun Kumar Kumaraswamy"
-  place: "Thoughtworks"
-  service: true
-  description: "Quality Analyst with 7+ years of experience in testing with multiple domains like Telecom,Banking,Insurance,Travel and Finance. I am interesting in Performance testing and mobile Automation and would like to explore with new tools for automation. Currently started to attend trainings for being an Agile Coach and Scrum Master"
--
+#   id: 009
+#   title: "Arun Kumar Kumaraswamy"
+#   place: "Thoughtworks"
+#   service: true
+#   description: "Quality Analyst with 7+ years of experience in testing with multiple domains like Telecom,Banking,Insurance,Travel and Finance. I am interesting in Performance testing and mobile Automation and would like to explore with new tools for automation. Currently started to attend trainings for being an Agile Coach and Scrum Master"
+# -
   id: 101
   title: "Welcome Notes"
   place: "Zoom"
