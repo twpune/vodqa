@@ -9,15 +9,15 @@
     - {
     	startTime: "3:00 PM",
     	endTime: "3:45 PM",
-    	sessionIds: [001,002,002]
+    	sessionIds: [001,002,003]
     }
     - {
         startTime: "3:50 PM",
         endTime: "4:35 PM",
-        sessionIds: [003, 004,004]
+        sessionIds: [004, 005,006]
     }
     - {
     	startTime: "4:55 PM",
     	endTime: "5:40 PM",
-    	sessionIds: [005,006,006]
+    	sessionIds: [007,008,009]
     }
