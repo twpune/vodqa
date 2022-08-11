@@ -1,7 +1,7 @@
 -
   id: 001
   title: "Patterns and Anti-Patterns of test automation framework"
-  subtype: workshop
+  subtype: presentation
   speakers: [1]
   language: en
   complexity: "Intermediate"
@@ -21,7 +21,7 @@
 -
   id: 004
   title: "The Big Elephant in the room - Managing test data"
-  subtype: workshop
+  subtype: presentation
   speakers: [2, 3]
   language: en
   complexity: "Intermediate"
@@ -58,4 +58,29 @@ id: 006
   place: "Thoughtworks"
   service: true
   description: "Quality Analyst with 7+ years of experience in testing with multiple domains like Telecom,Banking,Insurance,Travel and Finance. I am interesting in Performance testing and mobile Automation and would like to explore with new tools for automation. Currently started to attend trainings for being an Agile Coach and Scrum Master"
+-
+  id: 101
+  title: "Welcome Notes"
+  place: "Zoom"
+  service: true
+  description: "Greetings and Introduction"
+-
+  id: 102
+  title: "Break"
+  place: "Zoom"
+  service: true
+  description: "The best time to talk with speakers and attendees and provide feedbacks"
+-
+  id: 103
+  title: "Ice Break Activity"
+  place: "Zoom"
+  service: true
+  description: "Play a small game or activity"
+-
+  id: 104
+  title: "Closing note and Feedback"
+  place: "Zoom"
+  service: true
+  description: "End of day and provide feedback"
+-
 
