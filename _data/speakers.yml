@@ -5,7 +5,7 @@
   company: "Thoughtworks"
   title: "Principle Consultant"
   bio: "Bharath has been working for over 16 yrs in the software industry in various roles from that of a developer to IT head of a real-estate company. He loves to look at technology with a business mindset and solve real world problems using tech. Currently the Ops lead for the Data & AI Service Line in India."
-  thumbnailUrl: DawidOstrowski.jpg
+  thumbnailUrl: bharath.jpeg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
@@ -16,12 +16,12 @@
   company: "ThoughtWorks"
   title: "Lead Consultant"
   bio: "I am having 10 years of experience in Quality and Security areas. I help teams build quality and secure applications. Over time I have been setting up enterprise level security and quality practices for teams over past two years. I like to learn, guide and explore different tools and libraries in wide range. Strategy, Devsecops and Threat modelling are my favourite areas and currently my quest is to dig deep in to cloud security. I am working as a technical product owner and also is a security community lead for Thoughtworks India"
-  thumbnailUrl: DmytroDanylyk.jpg
+  thumbnailUrl: nal.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+#     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+#     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 
 -
   id: 3
@@ -33,7 +33,7 @@
   thumbnailUrl: DawidOstrowski.jpg
   rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+#     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 -
   id: 4
   name: "Arun Kumar"
@@ -41,10 +41,10 @@
   company: "ThoughtWorks"
   title: "Senior Consultant"
   bio: "Quality Analyst with 7+ years of experience in testing with multiple domains like Telecom,Banking,Insurance,Travel and Finance. I am interesting in Performance testing and mobile Automation and would like to explore with new tools for automation. Currently started to attend trainings for being an Agile Coach and Scrum Master"
-  thumbnailUrl: DmytroDanylyk.jpg
+  thumbnailUrl: arunkumar.JPG
   rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+#     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+#     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 
