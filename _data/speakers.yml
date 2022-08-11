@@ -8,7 +8,7 @@
   thumbnailUrl: bharath.jpeg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+#     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
   id: 2
   name: "Nalinikanth"
