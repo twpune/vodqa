@@ -4,11 +4,12 @@
   tracks: 
     - {title: "Talk", color: $talk-color}
     - {title: "Description", color: "#e91e63"}
+    - {title: "Speakers Details", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "3:00 PM",
     	endTime: "3:45 PM",
-    	sessionIds: [001]
+    	sessionIds: [001,006,007]
     }
     - {
         startTime: "3:50 PM",
@@ -18,5 +19,5 @@
     - {
     	startTime: "4:55 PM",
     	endTime: "5:40 PM",
-    	sessionIds: [005]
+    	sessionIds: [005,008,009]
     }
