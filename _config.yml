@@ -24,20 +24,20 @@ metaKeywords: "event, vodqa, thoughtworks"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/#schedule", text: "Schedule"}
- - {link: "https://www.meetup.com/VodQA-Pune/events/285143246/", text: "Participate"}
- - {link: "https://www.meetup.com/VodQA-Pune/events/285143246/", text: "Join Us"}
+ - {link: "https://www.meetup.com/vodqa-pune/events/287754880/", text: "Participate"}
+ - {link: "https://www.meetup.com/vodqa-pune/events/287754880/", text: "Join Us"}
 rightNavigationButtons:
- - {link: "https://www.meetup.com/VodQA-Pune/events/285143246/", text: "Participate"}
+ - {link: "https://www.meetup.com/vodqa-pune/events/287754880/", text: "Participate"}
 
 # Hero Block
 heroImage: "tw-bg.jpg"
-heroTitle: "vodQA 2022"
-heroSubtitle: "Trending in Testing (Mobile)"
+heroTitle: "vodQA Shots 2022"
+heroSubtitle: "Building Better Framework"
 typeoutTextValues: '"Pune"'
 typeoutFallback: ""
-eventDate: "April 23, 2022"
+eventDate: "September 06, 2022"
 heroButtons:
- - {link: "https://www.meetup.com/VodQA-Pune/events/285143246/", text: "Participate"}
+ - {link: "https://www.meetup.com/vodqa-pune/events/287754880/", text: "Participate"}
 
 # About Block
 aboutTitle: "About vodQA"
