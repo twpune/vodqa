@@ -1,22 +1,22 @@
 - 
-  date: "2022-04-23"
-  dateReadable: "April 23"
+  date: "2022-09-06"
+  dateReadable: "September 06"
   tracks: 
     - {title: "Talk", color: $talk-color}
     - {title: "Description", color: "#e91e63"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
+    	startTime: "03:00 PM",
+    	endTime: "03:45 PM",
     	sessionIds: [001, 002]
     }
     - {
-        startTime: "10:50",
-        endTime: "11:35",
+        startTime: "3:50",
+        endTime: "4:35",
         sessionIds: [003, 004]
     }
     - {
-    	startTime: "11:40",
-    	endTime: "12:15",
+    	startTime: "04:55",
+    	endTime: "05:40",
     	sessionIds: [005, 006]
     }
