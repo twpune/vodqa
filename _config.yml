@@ -23,7 +23,8 @@ metaKeywords: "event, vodqa, thoughtworks"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/#schedule", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {link: "https://www.meetup.com/vodqa-pune/events/287754880/", text: "Participate"}
  - {link: "https://www.meetup.com/vodqa-pune/events/287754880/", text: "Join Us"}
 rightNavigationButtons:
