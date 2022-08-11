@@ -15,35 +15,47 @@
 -
   id: 003
   title: "Bharath Hemachandran"
-  place: ""
+  place: "Thoughtworks"
   service: true
   description: "Bharath has been working for over 16 yrs in the software industry in various roles from that of a developer to IT head of a real-estate company. He loves to look at technology with a business mindset and solve real world problems using tech. Currently the Ops lead for the Data & AI Service Line in India."
 -
-  id: 003
-  title: "Automation for Apps using Appium"
+  id: 004
+  title: "The Big Elephant in the room - Managing test data"
   subtype: workshop
-  speakers: [3, 4]
+  speakers: [2, 3]
   language: en
   complexity: "Intermediate"
   video: ""
--
-  id: 004
-  title: ""
-  place: ""
-  service: true
-  description: "Appium is an open-source automation mobile testing tool, which is used to test the application. It is developed and supported by Sauce Labs to automate native and hybrid mobile apps. It is a cross-platform mobile automation tool, which means that it allows the same test to be run on multiple platforms. Multiple devices can be easily tested by Appium in parallel. This talk will provide a basic and advanced concepts of the Appium Automation testing tool such as Parallel test execution across geographic regions using VPN on local setup"
 -
   id: 005
-  title: "Detox: gray box end-to-end app automation"
+  title: ""
+  place: ""
+  service: true
+  description: "We work on different kind of applications and we write lot of automation code. The core of the automation framework is built around how do we create test data. How do we manage it how do we create a robust framework that is independent of the test data. This talk in it's entirety deals with test data strategies for automation frameworks and how to choose a specific one?"
+-
+id: 006
+  title: "Nalinikanth Meesala"
+  place: "Thoughtworks"
+  service: true
+  description: "I am having 10 years of experience in Quality and Security areas. I help teams build quality and secure applications. Over time I have been setting up enterprise level security and quality practices for teams over past two years. I like to learn, guide and explore different tools and libraries in wide range. Strategy, Devsecops and Threat modelling are my favourite areas and currently my quest is to dig deep in to cloud security. I am working as a technical product owner and also is a security community lead for Thoughtworks India"
+-
+  id: 007
+  title: "Robust UI Automation Framework with Playwright"
   subtype: workshop
-  speakers: [5, 6]
+  speakers: [4]
   language: en
   complexity: "Intermediate"
   video: ""
 -
-  id: 006
+  id: 008
   title: ""
   place: ""
   service: true
-  description: "Detox is a gray box testing solution for mobile apps, it manages sync between the test code and the app so the users don’t have to do it manually. In this talk, we will walk you through setting Detox up in your project."
-  
+  description: "Robust automation framework has certain archetypes to be considered, we are going to look into those archetypes with a sample UI automation framework created in Playwright Tool"
+-
+  id: 009
+  title: "Arun Kumar Kumaraswamy"
+  place: "Thoughtworks"
+  service: true
+  description: "Quality Analyst with 7+ years of experience in testing with multiple domains like Telecom,Banking,Insurance,Travel and Finance. I am interesting in Performance testing and mobile Automation and would like to explore with new tools for automation. Currently started to attend trainings for being an Agile Coach and Scrum Master"
+
