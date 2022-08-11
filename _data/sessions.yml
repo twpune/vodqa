@@ -1,8 +1,8 @@
 -
   id: 001
-  title: "Practical Test Strategy for Mobile Applications"
+  title: "Patterns and Anti-Patterns of test automation framework"
   subtype: workshop
-  speakers: [1, 2]
+  speakers: [1]
   language: en
   complexity: "Intermediate"
   video: ""
@@ -11,7 +11,13 @@
   title: ""
   place: ""
   service: true
-  description: "With the technology emerging so fast and the clients demanding the release very often it is necessary to test the application built for use on mobile devices to be tested thoroughly before it is released to end users. This talk will provide all necessary key concepts that one should keep in mind while planing a test strategy for mobile applications."
+  description: "At TW we are generally quite proficient at picking up tools and implementing it on a project.However, across projects there are many issues seen due to: a lack of knowledge on how to implement a framework optimally,, a lack of boilerplate code or rush jobs just to get automation in place. This talk will walk through some patterns and anti-patterns of test automation - right from understanding how to automate, how to choose the best tool for automation to creating a complete framework that is maintainable and extensible"
+-
+  id: 003
+  title: "Bharath Hemachandran"
+  place: ""
+  service: true
+  description: "Bharath has been working for over 16 yrs in the software industry in various roles from that of a developer to IT head of a real-estate company. He loves to look at technology with a business mindset and solve real world problems using tech. Currently the Ops lead for the Data & AI Service Line in India."
 -
   id: 003
   title: "Automation for Apps using Appium"
